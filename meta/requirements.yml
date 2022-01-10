@@ -1,3 +1,2 @@
-roles:
-  - src: linux-system-roles.selinux
-  - src: linux-system-roles.firewall
+- src: linux-system-roles.selinux
+- src: linux-system-roles.firewall
