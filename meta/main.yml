@@ -26,7 +26,5 @@ galaxy_info:
     - clevis
     - tang
 
-dependencies:
-  - linux-system-roles.selinux
-  - linux-system-roles.firewall
+dependencies: []
 # vim:set ts=2 sw=2 et:
